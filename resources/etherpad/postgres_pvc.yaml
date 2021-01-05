@@ -5,7 +5,6 @@ metadata:
    template: postgresql-persistent-template01
  name: postgresql
  spec:
-   spec:
        accessModes:
        - ReadWriteOnce 
        resources:
